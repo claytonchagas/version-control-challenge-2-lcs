@@ -1,6 +1,5 @@
 # version-control-challenge-2-lcs
 
-version-control-challenge-2-lcs
 It's an implementation of the second challenge of version control by Professor Leonardo Murta :-)
 
 This version is a first-level dynamic programming implementation.
