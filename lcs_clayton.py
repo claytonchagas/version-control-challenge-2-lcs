@@ -1,3 +1,6 @@
+#updated code at:
+#https://github.com/claytonchagas/version-control-challenge-2-lcs
+
 import sys
 import diff_cores_saida_terminal
 
